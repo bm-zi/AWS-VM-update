@@ -1,6 +1,6 @@
 #!/bin/bash
 
-   # Author: Bahram Z.
+   # Author: bm-zi
    # This script updates the website(/var/www/html/)on an aws instance,
    # from the origin local backup directory     
 
